@@ -1,0 +1,180 @@
+body {
+    text-align: center;
+    max-width: 640px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+img {
+    width: 100%;
+}
+
+header {
+    padding-bottom: 2rem;
+    background: white;
+}
+
+header .keysearch {
+    font-weight: 100; 
+    font-size: 1.5rem;
+}
+
+header .welcome {
+    font-size: 3rem;
+}
+
+header .name {
+    color: #303030;
+    font-weight: 800;
+}
+
+header .slogan {
+    font-style: italic;
+    font-weight: 400;
+}
+
+section {
+  padding: 2rem 1rem;
+  
+}
+
+section h1 {
+    font-size: 2.5rem;
+    color: #303030;
+    border: 3px solid #1c5596;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.menu {
+    background: rgb(255, 211, 218); /*lightpink*/
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.item {
+    padding-bottom: 1rem;
+}
+
+.category {
+    padding: 1rem;
+    padding-bottom: 2rem;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    background-color: whitesmoke;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+#signature {
+    background-color: rgb(255, 255, 232); /*lightyellow*/
+}
+
+.category h2 {
+    color: #1c5596;
+    padding-bottom: 1rem;
+}
+
+.title {
+    font-weight: 800;
+}
+
+.price {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.catchphrase {
+    color: #de291c;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.description {
+    text-align: left;
+}
+
+.about {
+    background: lightgray;
+}
+
+.contact {
+    background: lightsalmon;
+}
+
+footer {
+    font-weight: 100;
+    background: darkcyan;
+    padding: 0.5rem 0;
+}
+
+#whisky {
+    background-color: rgb(252, 242, 230); /**/
+}
+
+#cognac {
+    background-color: rgb(213, 252, 213); /*lightgreen*/
+}
+
+#vodka {
+    background-color: rgb(252, 213, 198);
+}
+
+#gin {
+    background-color:rgb(251, 220, 255);
+}
+
+#shooters {
+    background-color:rgb(220, 248, 255);
+}
+
+#brandy {
+    background-color:rgb(255, 240, 220);
+}
+
+#rum {
+    background-color:cornsilk;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    font-weight: 800;
+    font-style: italic;
+    text-align: right;
+    padding-bottom: 1.2rem;
+}
+
+td {
+    padding-bottom: 1.2rem;
+}
+
+table .title {
+    font-weight: 700;
+    text-align: left;
+    color: rgb(1, 1, 53);
+}
+
+table .price {
+    text-align: right;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.fixed {
+    width: 6rem;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    font-weight: 800;
+}
+
+.contact-details {
+    padding-bottom: 0.6rem;
+}
